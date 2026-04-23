@@ -1,2 +1,6 @@
 .venv/
 SemEval8_Dataset/
+Report/
+ignore/
+xlm-robeta-base/
+xlm-robeta-base
