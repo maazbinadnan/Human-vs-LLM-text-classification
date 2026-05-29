@@ -126,8 +126,3 @@ Open `453_Project_Maaz_Adnan.ipynb` in Google Colab and:
 
 Switch between `train_and_test`, `train`, and `test` modes via the `RUN_PIPELINE` dict in each model section.
 
----
-
-## Author
-
-**Maaz Adnan** — SCC 453 Project
